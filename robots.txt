@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://etornamprosper14-jacpot.github.io/M.C.F/sitemap.xml
